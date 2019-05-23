@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Needit" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="number" max_length="40" name="u_integer_3" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="request for" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="request type" max_length="40" name="u_string_5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="what needed" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="when needed" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="other" max_length="40" name="u_string_8" type="string"/>
+    </element>
+</database>
