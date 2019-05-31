@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cors_rule">
+    <sys_cors_rule action="INSERT_OR_UPDATE">
+        <delete>false</delete>
+        <domain>https://www.sample-core.org</domain>
+        <exposed_headers/>
+        <get>true</get>
+        <max_age>0</max_age>
+        <name>sample_core.org</name>
+        <patch>false</patch>
+        <post>false</post>
+        <put>false</put>
+        <rest_api>now/stats</rest_api>
+        <sys_class_name>sys_cors_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-31 12:14:51</sys_created_on>
+        <sys_id>b27bfeb8dbb133007b6dab7dca961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sample_core.org</sys_name>
+        <sys_package display_value="global" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="global">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_cors_rule_b27bfeb8dbb133007b6dab7dca961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-31 12:14:51</sys_updated_on>
+    </sys_cors_rule>
+</record_update>
